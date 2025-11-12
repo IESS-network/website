@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The Italian Evolutionary Social Science Network
+        The Italian Evolutionary Social Sciences Network
   
   - block: collection
     content:
